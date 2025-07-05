@@ -4,13 +4,13 @@
 
 ## Q1. What is the goal of maximum CPU utilization?
 
-**Teri Language Answer:**
+**Hindi:**
 OS chahta hai ki CPU ek second bhi free na baitha rahe. Jaise factory me machine hamesha kaam kare bina rukhe.
 
-**English Answer:**
+**English:**
 The goal of maximum CPU utilization is to ensure the CPU is always busy and never idle. This improves overall system performance.
 
-**Example (Teri language):**
+**Example (Hindi):**
 Kitchen me chef ko ingredients milte rahe to vo nonstop cooking karega. Agar koi delay ho gaya, chef free ho gaya = CPU waste.
 
 **Example (English):**
