@@ -36,7 +36,7 @@ At a ticket counter, if only VIPs get service and normal people keep waiting, it
 
 ## Q3. Why is higher priority job execution important in OS?
 
-**Teri Language Answer:**
+** Hindi Answer:**
 Agar koi kaam urgent hai, jaise accident patient, to uska kaam pehle hona chahiye — chhoti dikkat baad me dekhenge.
 
 **English Answer:**
