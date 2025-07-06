@@ -5,10 +5,10 @@
 ### Definition:
 Application software is designed to help users perform **specific tasks** like creating documents, editing images, or browsing websites.
 
-### Simple Words:
+### My Words:
 Ye software **user ke kaam ke liye** banta hai – jaise typing karna, photo edit karna, ya YouTube chalana.
 
-### Real-World Examples:
+### Examples:
 - Microsoft Word – for typing documents  
 - Adobe Photoshop – for editing images  
 - Google Chrome – for browsing the internet  
@@ -26,7 +26,7 @@ Ye software **user ke kaam ke liye** banta hai – jaise typing karna, photo edi
 ### Definition:
 System software **controls and manages** computer hardware and provides a platform to run application software.
 
-### In Simple Words:
+### My Words:
 Ye software computer ko **control karta hai** aur application software ko chalne ka **environment deta hai**.
 
 ### Real-World Examples:
@@ -42,20 +42,13 @@ Ye software computer ko **control karta hai** aur application software ko chalne
 
 ---
 
----
-
-### Visual: Application Software vs System Software  
-![App vs System](OS_Images/app-vs-system.png)
-
----
-
 ## Short Real-World Explanation
 
 ### Application Software – Jaise Tools
 > **Jaise: MS Word** – document likhne ka tool  
 > **Jaise: Chrome** – internet chalane ka tool  
 > **Jaise: VLC Player** – video dekhne ka tool  
-🛠️ *Socho inhe tum kaam ke liye khud chalate ho.*
+🛠️ *Socho inhe aap kaam ke liye khud chalate ho.*
 
 ---
 
@@ -83,10 +76,10 @@ An operating system is a piece of software that **manages all the resources** of
 
 It hides the **underlying complexity of the hardware** and acts as a **resource manager**.
 
-### In Simple Words:
+### My Words:
 Operating system wo software hai jo **poore computer system ko control karta hai** — hardware, software, files, memory sab kuch — taaki user **asaani se programs chala sake** bina hardware ke complex logic ke.
 
-### Key Points:
+### Points:
 - Resource manager for CPU, memory, storage, etc.  
 - Provides interface between user and hardware  
 - Makes execution of programs smooth and safe  
@@ -102,10 +95,10 @@ Operating system wo software hai jo **poore computer system ko control karta hai
 > Har application ko hardware se khud interact karna padega. Har app ka size aur complexity badh jaayegi.
 
 #### b. Resource Exploitation by One App:
-> Agar OS na ho, to ek hi app sabhi hardware resources le sakta hai — CPU, memory, etc.
+> Agar OS na ho to ek hi app sabhi hardware resources le sakta hai — CPU, memory, etc.
 
 #### c. No Memory Protection:
-> Ek program doosre program ke memory area ko overwrite kar sakta hai. Ye system crash ya data loss ka reason ban sakta hai.
+> Ek program doosre program ke memory area ko overwrite kar sakta hai. ye system crash ya data loss ka reason ban sakta hai.
 
 ---
 
@@ -129,7 +122,7 @@ Operating system wo software hai jo **poore computer system ko control karta hai
 ### 2. Interface Between User and Hardware
 > OS user ko ek **simple interface** deta hai taaki user bina hardware logic samjhe kaam kar sake.
 
-*Real-life: Jaise ATM machine — aapko sirf buttons dikhte hain, andar jo ho raha hai wo OS handle karta hai.*
+*Real-life: Jaise ATM machine — aapko sirf buttons dikhte hain andar jo ho raha hai wo OS handle karta hai.*
 
 ---
 
@@ -150,7 +143,7 @@ Operating system wo software hai jo **poore computer system ko control karta hai
 ### 5. Facilitates Execution of Application Programs with Isolation and Protection
 > OS ensures ki har program **secure aur alag environment** me chale, taaki ek app doosre ko interfere na kare.
 
-*Real-life: Jaise har student ka exam room alag hota hai — koi cheating na kare. Waise hi OS har app ko alag rakhta hai.*
+*Real-life: Jaise har student ka exam room alag hota hai — koi cheating na kare waise hi OS har app ko alag rakhta hai.*
 
 ---
 
