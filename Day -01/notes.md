@@ -48,7 +48,7 @@ Ye software computer ko **control karta hai** aur application software ko chalne
 > **Jaise: MS Word** – document likhne ka tool  
 > **Jaise: Chrome** – internet chalane ka tool  
 > **Jaise: VLC Player** – video dekhne ka tool  
-🛠️ *Socho inhe aap kaam ke liye khud chalate ho.*
+ *Socho inhe aap kaam ke liye khud chalate ho.*
 
 ---
 
